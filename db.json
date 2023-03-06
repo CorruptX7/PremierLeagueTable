@@ -1,9 +1,7 @@
-{
-  "league_table": [
-    {
-      "team": "Arsenal",
-      "position": 1,
-      "points": 63
-    }
-  ]
-}
+[
+  {
+		"team": "Arsenal",
+		"position": 1,
+		"points": 63
+	}
+]
