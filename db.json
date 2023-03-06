@@ -1,184 +1,183 @@
-{ 
-"league_table": [
-    {
-      "position": 1,
-      "team": "Arsenal",
-      "mp": 26,
-      "w": 20,
-      "d": 3,
-      "l": 3,
-      "points": 63
-    },
-    {
-      "position": 2,
-      "team": "Man City",
-      "mp": 26,
-      "w": 18,
-      "d": 4,
-      "l": 4,
-      "points": 58
-    },
-    {
-      "position": 3,
-      "team": "Man United",
-      "mp": 25,
-      "w": 15,
-      "d": 4,
-      "l": 6,
-      "points": 49
-    },
-    {
-      "position": 4,
-      "team": "Tottenham",
-      "mp": 26,
-      "w": 14,
-      "d": 3,
-      "l": 9,
-      "points": 45
-    },
-    {
-      "position": 5,
-      "team": "Liverpool",
-      "mp": 25,
-      "w": 12,
-      "d": 6,
-      "l": 7,
-      "points": 42
-    },
-    {
-      "position": 6,
-      "team": "Newcastle",
-      "mp": 24,
-      "w": 10,
-      "d": 11,
-      "l": 3,
-      "points": 41
-    },
-    {
-      "position": 7,
-      "team": "Fulham",
-      "mp": 25,
-      "w": 11,
-      "d": 6,
-      "l": 8,
-      "points": 39
-    },
-    {
-      "position": 8,
-      "team": "Brighton",
-      "mp": 23,
-      "w": 11,
-      "d": 5,
-      "l": 7,
-      "points": 38
-    },
-    {
-      "position": 9,
-      "team": "Brentford",
-      "mp": 23,
-      "w": 8,
-      "d": 11,
-      "l": 4,
-      "points": 35
-    },
-    {
-      "position": 10,
-      "team": "Chelsea",
-      "mp": 25,
-      "w": 9,
-      "d": 7,
-      "l": 9,
-      "points": 34
-    },
-    {
-      "position": 11,
-      "team": "Aston Villa",
-      "mp": 25,
-      "w": 10,
-      "d": 4,
-      "l": 11,
-      "points": 38
-    },
-    {
-      "position": 12,
-      "team": "Crystal Palace",
-      "mp": 25,
-      "w": 6,
-      "d": 9,
-      "l": 10,
-      "points": 27
-    },
-    {
-      "position": 13,
-      "team": "Wolves",
-      "mp": 26,
-      "w": 7,
-      "d": 6,
-      "l": 13,
-      "points": 27
-    },
-    {
-      "position": 14,
-      "team": "Nottm Forest",
-      "mp": 25,
-      "w": 6,
-      "d": 8,
-      "l": 11,
-      "points": 26
-    },
-    {
-      "position": 15,
-      "team": "Leicester City",
-      "mp": 25,
-      "w": 7,
-      "d": 3,
-      "l": 15,
-      "points": 24
-    },
-    {
-      "position": 16,
-      "team": "West Ham",
-      "mp": 25,
-      "w": 6,
-      "d": 5,
-      "l": 14,
-      "points": 23
-    },
-    {
-      "position": 17,
-      "team": "Leed United",
-      "mp": 25,
-      "w": 5,
-      "d": 7,
-      "l": 13,
-      "points": 22
-    },
-    {
-      "position": 18,
-      "team": "Everton",
-      "mp": 26,
-      "w": 5,
-      "d": 7,
-      "l": 14,
-      "points": 22
-    },
-    {
-      "position": 19,
-      "team": "Southampton",
-      "mp": 25,
-      "w": 6,
-      "d": 3,
-      "l": 16,
-      "points": 21
-    },
-    {
-      "position": 1,
-      "team": "Bournemouth",
-      "mp": 25,
-      "w": 5,
-      "d": 6,
-      "l": 14,
-      "points": 21
-    },
- ]
+{
+	"league_table": [{
+			"position": 1,
+			"team": "Arsenal",
+			"mp": 26,
+			"w": 20,
+			"d": 3,
+			"l": 3,
+			"points": 63
+		},
+		{
+			"position": 2,
+			"team": "Man City",
+			"mp": 26,
+			"w": 18,
+			"d": 4,
+			"l": 4,
+			"points": 58
+		},
+		{
+			"position": 3,
+			"team": "Man United",
+			"mp": 25,
+			"w": 15,
+			"d": 4,
+			"l": 6,
+			"points": 49
+		},
+		{
+			"position": 4,
+			"team": "Tottenham",
+			"mp": 26,
+			"w": 14,
+			"d": 3,
+			"l": 9,
+			"points": 45
+		},
+		{
+			"position": 5,
+			"team": "Liverpool",
+			"mp": 25,
+			"w": 12,
+			"d": 6,
+			"l": 7,
+			"points": 42
+		},
+		{
+			"position": 6,
+			"team": "Newcastle",
+			"mp": 24,
+			"w": 10,
+			"d": 11,
+			"l": 3,
+			"points": 41
+		},
+		{
+			"position": 7,
+			"team": "Fulham",
+			"mp": 25,
+			"w": 11,
+			"d": 6,
+			"l": 8,
+			"points": 39
+		},
+		{
+			"position": 8,
+			"team": "Brighton",
+			"mp": 23,
+			"w": 11,
+			"d": 5,
+			"l": 7,
+			"points": 38
+		},
+		{
+			"position": 9,
+			"team": "Brentford",
+			"mp": 23,
+			"w": 8,
+			"d": 11,
+			"l": 4,
+			"points": 35
+		},
+		{
+			"position": 10,
+			"team": "Chelsea",
+			"mp": 25,
+			"w": 9,
+			"d": 7,
+			"l": 9,
+			"points": 34
+		},
+		{
+			"position": 11,
+			"team": "Aston Villa",
+			"mp": 25,
+			"w": 10,
+			"d": 4,
+			"l": 11,
+			"points": 38
+		},
+		{
+			"position": 12,
+			"team": "Crystal Palace",
+			"mp": 25,
+			"w": 6,
+			"d": 9,
+			"l": 10,
+			"points": 27
+		},
+		{
+			"position": 13,
+			"team": "Wolves",
+			"mp": 26,
+			"w": 7,
+			"d": 6,
+			"l": 13,
+			"points": 27
+		},
+		{
+			"position": 14,
+			"team": "Nottm Forest",
+			"mp": 25,
+			"w": 6,
+			"d": 8,
+			"l": 11,
+			"points": 26
+		},
+		{
+			"position": 15,
+			"team": "Leicester City",
+			"mp": 25,
+			"w": 7,
+			"d": 3,
+			"l": 15,
+			"points": 24
+		},
+		{
+			"position": 16,
+			"team": "West Ham",
+			"mp": 25,
+			"w": 6,
+			"d": 5,
+			"l": 14,
+			"points": 23
+		},
+		{
+			"position": 17,
+			"team": "Leed United",
+			"mp": 25,
+			"w": 5,
+			"d": 7,
+			"l": 13,
+			"points": 22
+		},
+		{
+			"position": 18,
+			"team": "Everton",
+			"mp": 26,
+			"w": 5,
+			"d": 7,
+			"l": 14,
+			"points": 22
+		},
+		{
+			"position": 19,
+			"team": "Southampton",
+			"mp": 25,
+			"w": 6,
+			"d": 3,
+			"l": 16,
+			"points": 21
+		},
+		{
+			"position": 1,
+			"team": "Bournemouth",
+			"mp": 25,
+			"w": 5,
+			"d": 6,
+			"l": 14,
+			"points": 21
+		}
+	]
 }
