@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "league_table": [
     {
-      "id": 1,
-      "title": "hello"
+      "team": "Arsenal",
+      "position: "1",
+      "points": "63"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
